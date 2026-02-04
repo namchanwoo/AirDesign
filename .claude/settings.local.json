@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(CW_AskUserQuestion)",
+      "Skill(game-design-assistant)",
+      "Bash(pip install:*)",
+      "Bash(node create-pptx.js:*)",
+      "Bash(NODE_PATH=\"E:/UnrealProject/AirDesign/Doc/03_Character/workspace/node_modules\" node:*)",
+      "Bash(node:*)",
+      "Bash(set NODE_PATH=C:UsersskackAppDataRoamingnpmnode_modules)"
+    ]
+  }
+}
